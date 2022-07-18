@@ -7,11 +7,13 @@ My original hope was to create an application which could track whether a user w
 
 I do not advocate for the use of such tools in industry or education. However, they are very interesting, and could be promising tools for a number of valid/non-dystopian use cases (driver safety, clinical psych/neuro studies, etc.).
 
-A large amount of this code was sourced from: 
+A large amount of this code was sourced from:  
 https://www.geeksforgeeks.org/opencv-python-program-face-detection/
-Pretrained classifier from: 
+
+Pretrained classifier from:  
 https://github.com/Itseez/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
-Sound file from: 
+
+Sound file from:  
 www.FesliyanStudios.com.mp3
  
  
